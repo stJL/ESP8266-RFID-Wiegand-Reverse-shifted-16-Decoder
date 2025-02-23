@@ -14,6 +14,8 @@
 * 提供一個實驗平台，用於研究 Wiegand 編碼。
 * 詳細說明程式碼的推理和實踐過程，並強調門禁系統讀取方式的多樣性。
 * **如果想要知道完整程式步驟，可下載 ESP8266_RFID_Wiegand_Decoder_Complete_Reasoning.ino 進行參考。**
+* *(提示：本程式碼的位移方法可能與某些 Soyal 系列門禁系統相符，但需進行實際測試驗證。)*
+
 
 ### 硬體需求 (Hardware Requirements)
 
@@ -93,6 +95,8 @@ This project is an ESP8266 code that reads the Unique Identifier (UID) of an RFI
 * Provide an experimental platform for studying Wiegand encoding.
 * Explain the reasoning and practice of the code in detail, emphasizing the diversity of access control system reading methods.
 * **For a complete step-by-step code demonstration, please refer to ESP8266_RFID_Wiegand_Decoder_Complete_Reasoning.ino.**
+* *(Hint: The shift method in this code may be compatible with some Soyal series access control systems, but actual testing and verification are required.)*
+
 
 ### Hardware Requirements
 
